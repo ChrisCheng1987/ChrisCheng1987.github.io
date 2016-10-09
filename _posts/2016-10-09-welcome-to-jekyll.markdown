@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my blog, Jess!"
+title:  "Welcome to my blog, 杰琦!"
 date:   2016-10-09 00:23:44 -0400
 categories: jekyll update
 ---
