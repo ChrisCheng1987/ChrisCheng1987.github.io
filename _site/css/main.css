@@ -207,6 +207,16 @@ code {
     margin: 0 auto;
     line-height: 26px;
     margin-bottom: 20px; }
+  .post-content h1 {
+    font-size: 42px;
+    font-family: 'Source Sans Pro', sans-serif;
+    max-width: 840px;
+    padding: 0px 10px;
+    margin: 0 auto;
+    margin-bottom: 20px; }
+    @media screen and (max-width: 800px) {
+      .post-content h1 {
+        font-size: 28px; } }
   .post-content h2 {
     font-size: 32px;
     font-family: 'Source Sans Pro', sans-serif;

@@ -107,6 +107,20 @@
         margin-bottom: 20px;
     }
 
+    h1 {
+        font-size: 42px;
+        font-family: 'Source Sans Pro', sans-serif;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+
+        max-width: 840px;
+        padding: 0px 10px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
     h2 {
         font-size: 32px;
         font-family: 'Source Sans Pro', sans-serif;
