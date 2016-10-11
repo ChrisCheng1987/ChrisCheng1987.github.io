@@ -6,12 +6,12 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 04:36:09 -0400</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 04:36:09 -0400</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2016 19:42:05 -0400</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2016 19:42:05 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to my blog, 杰琦!</title>
+        <title>Welcome to my blog, Jess!</title>
         <description>&lt;h1 id=&quot;jess--&quot;&gt;Jess, 这网页做得咋样？ 哈哈&lt;/h1&gt;
 
 &lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
