@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Oct 2016 18:25:31 -0400</pubDate>
-    <lastBuildDate>Sat, 15 Oct 2016 18:25:31 -0400</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 00:07:07 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 00:07:07 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -32,6 +32,25 @@
         <pubDate>Sun, 09 Oct 2016 00:23:44 -0400</pubDate>
         <link>http://yourdomain.com/jekyll/update/2016/10/09/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/10/09/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>比较好玩儿的DeepLearning教程（中文）</title>
+        <description>&lt;h2 id=&quot;dqnflappy-birdgpucpu&quot;&gt;教你从头到尾利用DQN自动玩flappy bird（全程命令提示，GPU+CPU版）&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.csdn.net/v_JULY_v/article/details/52810219?locationNum=2&amp;amp;fps=1&quot;&gt;地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;注：可以看这一系列的blog，包含梵高作画、文字生成、自动聊天机器人、图像着色、图像生成、看图说话、字幕生成、flappy bird等有意思的应用。&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 07 Oct 2015 14:51:59 -0400</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/10/07/useful-deeplearning.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/07/useful-deeplearning.html</guid>
         
         
         <category>jekyll</category>
